@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To run the project locally
+
+run 'npm i' in the terminal before running 'ng serve'. This is because the repository does not contain the node_modules
+
 ## Available Scripts
 
 In the project directory, you can run:
