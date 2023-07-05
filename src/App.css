@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.App{
+  width: 100rem;
+  height: 100rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #000015;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+  /* z-index: 1; */
+  font-size: 50px; 
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 2rem; 
+}
+
+/* .heading:hover{
+  font-size: 48px;
+} */
+
+.instruction{
+  margin: 10px 1000px 0 0 ;
+  font-size: large;
+}
+
+.button__get{
+  height: 6vh;
+  width: 15vw;
+  font-size: 20px;
+  display: block;
+  margin: 25px 800px 20px 0 ;
+  
+}
+
+.button__getOne{
+  height: 6vh;
+  width: 15vw;
+  font-size: 20px;
+  display: block;
+  margin: 25px 800px 20px 0 ;
+  
+}
+
+.button__put{
+  height: 6vh;
+  width: 15vw;
+  font-size: 20px;
+  display: block;
+  margin: 25px 800px 20px 0 ;
+}
+
+.button__post{
+  height: 6vh;
+  width: 15vw;
+  font-size: 20px;
+  display: block;
+  margin: 25px 800px 20px 0 ;
+}
+
+.button__patch{
+  height: 6vh;
+  width: 15vw;
+  font-size: 20px;
+  display: block;
+  margin: 25px 800px 20px 0 ;
+}
+
+.button__delete{
+  height: 6vh;
+  width: 15vw;
+  font-size: 20px;
+  display: block;
+  margin: 25px 800px 20px 0 ;
+}
+
+.result__get{
+  /*how do i display to the side*/
+  margin: 20px 50px 0 300px;
+}
+
+.result__getOne{
+  /*how do i display to the side*/
+  margin: 0 100px 0 300px;
+}
+
+.input__getOne{
+  margin-top: 10px;
+}
+
+.get{
+  border-style: solid;
+  border-width: small;
+  border-color: white;
+  margin: 10px 0 10px 0; 
+ 
+}
+
+.getOne{
+  border-style: solid;
+  border-width: small;
+  border-color: white;
+  margin: 10px 0 10px 0; 
+
+}
+
+.put{
+  border-style: solid;
+  border-width: small;
+  border-color: white;
+  margin: 10px 0 10px 0; 
+
+}
+
+.post{
+  border-style: solid;
+  border-width: small;
+  border-color: white;
+  margin: 10px 0 10px 0; 
+
+}
+
+.delete{
+  border-style: solid;
+  border-width: small;
+  border-color: white;
+  margin: 10px 0 10px 0; 
+
+}
